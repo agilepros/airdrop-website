@@ -1,0 +1,15 @@
+.features-tiles-item-image {
+	display: inline-flex;
+	border-radius: 50%;
+	background-color: get-color(primary, 3);
+	box-shadow: 4px 4px 4px  grey;
+}
+
+.box-shadow-grey{
+	box-shadow: 3px 3px 3px #25282C;
+
+}
+
+.text-shadow-grey{
+	text-shadow: 3px 3px 3px rgb(83, 83, 83);
+}
